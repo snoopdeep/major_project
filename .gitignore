@@ -34,3 +34,8 @@ dist-ssr
 *.sln
 *.sw?
 .env
+# Ignore large files
+*.pth
+*.npy
+*.joblib
+*.bin
