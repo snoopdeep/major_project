@@ -1,0 +1,61 @@
+Got it — you're feeding this document into a **vector database** for **RAG (Retrieval-Augmented Generation)**! 🔥  
+I'll give you a list of **good, sharp questions** that would **trigger retrieval** based on the content you posted. I'll mix **simple**, **moderate**, and **deep** questions to cover different levels of testing your system:
+
+---
+
+### 📋 Basic Concept Questions
+1. What is functional genomics?
+2. How is functional genomics different from traditional biology?
+3. What are the three main molecules studied in functional genomics?
+4. What is the relationship between genotype and phenotype?
+5. What is natural variation in the context of functional genomics?
+6. What is meant by functional disruptions in the genome?
+7. How does RNA-seq help in functional genomics?
+8. Give an example of a disease caused by genomic deletion.
+9. How is Down syndrome related to genomic amplification?
+
+---
+
+### 📋 Model Organism-Specific Questions
+10. Why is *Escherichia coli* considered an important model organism?
+11. What database is primarily used for *E. coli* functional genomics research?
+12. What makes *Saccharomyces cerevisiae* a good model for eukaryotic functional genomics?
+13. What is the role of WormBase?
+14. Which model organism has 959 mapped somatic cells?
+15. What are the advantages of using *Drosophila melanogaster* in functional genomics?
+16. Why is zebrafish (*Danio rerio*) a popular vertebrate model?
+17. What is the Arabidopsis Information Resource (TAIR)?
+
+---
+
+### 📋 Methods and Approaches Questions
+18. What is a yeast two-hybrid screen used for?
+19. What is reverse genetics?
+20. What is forward genetics?
+21. What is GWAS and how is it applied in Arabidopsis studies?
+22. What does “bar-coding” mean in the context of functional genomics experiments?
+
+---
+
+### 📋 Deeper Analytical Questions
+23. Why is understanding the genotype-phenotype relationship still a major challenge?
+24. How do experimental disruptions like deletions, insertions, and translocations help in studying genome function?
+25. How does functional genomics help in developing therapeutic strategies for diseases?
+26. Explain the concept of four-dimensional genome annotation.
+27. What are the advantages of using transparent embryos in zebrafish studies?
+28. How has modENCODE contributed to Drosophila functional genomics?
+
+---
+
+### 📋 Database and Resource Questions
+29. Name two databases related to *E. coli* genomic data.
+30. What kind of information does the Zebrafish Information Network (ZFIN) provide?
+31. What is EcoCyc and what is its relevance?
+32. How is the ENCODE project linked to model organism studies?
+
+---
+
+Would you also like me to give you **some advanced "multi-hop" questions**?  
+(These require combining 2–3 pieces of info from different parts of the doc — useful if you want to test more **reasoning** with RAG!) 🚀
+
+Want me to prepare those too? 🎯
