@@ -15,6 +15,10 @@ BIOINFORMATICS AND.pdf
 bookAAA.txt
 data
 dist
+gene_neighbours_9606.tsv
+mim2gene_medgen
+book_index
+results
 dist-ssr
 *.local
 
