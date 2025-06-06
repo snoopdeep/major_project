@@ -16,6 +16,7 @@ bookAAA.txt
 data
 dist
 gene_neighbours_9606.tsv
+llama-2-7b-chat.ggmlv3.q4_0.bin
 mim2gene_medgen
 book_index
 results
