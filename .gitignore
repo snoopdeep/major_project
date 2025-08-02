@@ -1,0 +1,41 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+finalDataset
+test_results
+venv
+BIOINFORMATICS AND.pdf
+bookAAA.txt
+data
+dist
+gene_neighbours_9606.tsv
+llama-2-7b-chat.ggmlv3.q4_0.bin
+mim2gene_medgen
+book_index
+results
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.env
+# Ignore large files
+*.pth
+*.npy
+*.joblib
+*.bin

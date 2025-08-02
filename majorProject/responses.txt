@@ -1,0 +1,63 @@
+(venv) PS C:\Users\Deepak Singh\Desktop\majorProject> python app.py
+Loading existing embeddings...
+
+===== Book Chatbot (Local FAISS) =====
+Ask questions about your book. Type 'exit' to quit.
+
+Your question: What is EcoCyc and what is its relevance?
+
+Answer:  EcoCyc is an online database that provides a comprehensive overview of the metabolic pathways and reactions in microorganisms. It includes information on the biochemical properties, genetic organization, and functional annotations of microbial organisms, as well as tools for data analysis and visualization.
+     Relevance: EcoCyc is relevant to this course because it provides a valuable resource for understanding the metabolic capabilities and limitations of different microorganisms, which is essential for the development of new biotechnology applications. By analyzing the metabolic pathways and reactions in different microorganisms, researchers can identify potential targets for biotechnological applications such as biofuel production or bioremediation.
+    WebLinks: EcoCyc is online at http://ecocyc.org/ (WebLink 14.6). Additional related resources are Regulon at http://regulondb.ccg.unam.mx/ (WebLink 14.9) and MetaCyc at http://metacyc.org/ (WebLink 14.11).
+
+Time taken: 120.04 seconds
+
+Sources:
+Source 1: EcoCyc is online at
+
+http://
+
+ecocyc.org/ (WebLink 14.6),
+PortEco is at
+
+http://porteco.org/
+
+(WebLi...
+
+Your question: How does RNA-seq help in functional genomics?
+
+Answer:  RNA-seq is a powerful tool for transcriptome analysis that helps in functional genomics by providing detailed information on the expression of RNA molecules in a given organism. Here are some ways RNA-seq helps in functional genomics:
+    1. Identification of novel transcripts and splicing events: RNA-seq can detect novel transcripts that were not previously known or annotated in the reference genome, as well as splicing events that were not predicted by the reference genome. This provides a more comprehensive view of the transcriptome than traditional methods such as microarray analysis.
+    2. Quantification of gene expression: RNA-seq provides a sensitive and quantitative measure of gene expression levels, allowing researchers to identify differentially expressed genes between different samples or conditions.
+    3. Characterization of non-coding RNAs: RNA-seq can be used to identify and characterize non-coding RNAs such as microRNAs, lncRNAs, and circRNAs, which are increasingly recognized as important regulators of gene expression.
+    4. Identification of novel regulatory elements: RNA-seq can help identify novel regulatory elements such as alternative splice sites, intronic enhancers, and other cis-acting elements that may play a role in regulating gene expression.
+    5. Investigation of gene fusion events: RNA-seq can be used to detect gene fusion events, which are often associated with cancer and other diseases.
+    6. Analysis of RNA structure and dynamics: RNA-seq can provide information on the structure and dynamics of RNA molecules, such as secondary and tertiary structure, and the stability of RNA molecules under different conditions.
+ther diseases.
+    6. Analysis of RNA structure and dynamics: RNA-seq can provide information on the structure and dynamics of RNA molecules, such as secondary and tertiary structure, and the stability of RNA molecules under different conditions.
+    7. Identification of RNA-binding proteins and their targets: RNA-seq can help identify RNA-binding proteins and their target RNAs, whither diseases.
+    6. Analysis of RNA structure and dynamics: RNA-seq can provide information on the structure and dynamics of RNA molecules, such as secondary and tertiary structure, and the stability of RNA molecules under different conditions.
+ther diseases.
+    6. Analysis of RNA structure and dynamics: RNA-seq can provide information on the structure and dynamics of RNA molecules, such as secther diseases.
+    6. Analysis of RNA structure and dynamics: RNA-seq can provide information on the structure and dynamics of RNA molecules, such as secondary and tertiary structure, and the stability of RNA molecules under different conditions.
+    7. Identification of RNA-binding proteins and their targets: RNA-seq can help identify RNA-binding proteins and their target RNAs, which are important for regulating gene expression.
+
+Overall, RNA-seq provides a powerful tool for functional genomics by providing detailed information on the transcriptome and its regulation, which can be used to better understand the underlying biology of diseases and develop new therapeutic strategies.
+
+Time taken: 149.25 seconds
+
+Sources:
+Source 1: Genomewide Analysis of DNA, RNA, and Protein
+
+Functional Genomics and DNA: Integrating Information
+
+...
+
+Your question: Give an example of a disease caused by genomic deletion.
+
+Answer:  One example of a disease caused by genomic deletion is the Wolf-Parkinson-White syndrome, which is caused by a microdeletion of chromosome 3p21. The deletion leads to the loss of several genes, including those involved in the regulation of heart rate and rhythm. As a result, individuals with this condition may experience abnormal heart rhythms, including arrhythmias and palpitations. Other symptoms can include short stature, developmental delays, and vision problems.
+
+Time taken: 70.46 seconds
+
+Sources:
+Source 1: abnormal copy number), segments of chromosomes, or single nucleotides. Examples of naturally occurri...
